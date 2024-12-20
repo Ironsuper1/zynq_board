@@ -1,9 +1,0 @@
-Manufacturer=AMD
-PartNumber=XC7Z020-2CLG484I
-PartCategory=Integrated Circuit
-PackageCategory=BGA
-PinCount=484
-Version=3.1
-Released=2017-06-06 06:46:54
-Downloaded=2024-12-18 11:57:46
-3D=Y

@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "zynq")(type "KiCad")(uri "${KIPRJMOD}/XC7Z020-2CLG484I/KiCad")(options "")(descr ""))
+  (lib (name "zynq7")(type "KiCad")(uri "${KIPRJMOD}/fpga/footprints.pretty")(options "")(descr ""))
 )

@@ -386,6 +386,22 @@
     [
       "e78113f8-2ed1-4d17-963f-ba6712fb8176",
       "Root"
+    ],
+    [
+      "f47dc066-f068-4192-a1e5-1b3888c38b3d",
+      "Power"
+    ],
+    [
+      "fbdcf55f-75e1-472a-875c-da9bbb480ea3",
+      "PS"
+    ],
+    [
+      "1aa7d938-af84-4df7-9b43-d8947790d8c5",
+      "PL"
+    ],
+    [
+      "c203e599-ee9b-467a-a45e-97f18182d0b1",
+      "Power1"
     ]
   ],
   "text_variables": {}
